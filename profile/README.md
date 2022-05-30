@@ -1,6 +1,6 @@
 # This is PennApps
 
-![PennApps mascots waving](./images/platy_pengy.png)
+![PennApps mascots waving](https://github.com/pennapps/.github/blob/07b801dcc6ec09c4485d5cd21880e865eb16341d/profile/images/platy_pengy.png)
 
 PennApps is the world's original college hackathon, hosting both a spring and a fall hackathon. Find out more about us at [pennapps.com](https://pennapps.com/).
 
